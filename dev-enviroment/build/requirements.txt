@@ -1,0 +1,5 @@
+websocket-client
+discord.py
+Pillow
+python-dotenv
+
