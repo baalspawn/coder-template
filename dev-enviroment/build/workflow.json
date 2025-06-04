@@ -1,0 +1,603 @@
+{
+  "4": {
+    "inputs": {
+      "PowerLoraLoaderHeaderWidget": {
+        "type": "PowerLoraLoaderHeaderWidget"
+      },
+      "lora_1": {
+        "on": false,
+        "lora": "MechnifyingGlassMk1.safetensors",
+        "strength": 1
+      },
+      "lora_2": {
+        "on": false,
+        "lora": "Lora\\1-MG-Mk1\\Mechnifying_Glass-000006.safetensors",
+        "strength": 0.25
+      },
+      "lora_3": {
+        "on": false,
+        "lora": "GothicMetal_Blindmask.safetensors",
+        "strength": 1
+      },
+      "lora_4": {
+        "on": false,
+        "lora": "Anime Mystery Style _ Flux _ Lucifer_v1.0.safetensors",
+        "strength": 1
+      },
+      "lora_5": {
+        "on": false,
+        "lora": "Digital Art Style - Flux - Lucifer.safetensors",
+        "strength": 1
+      },
+      "lora_6": {
+        "on": true,
+        "lora": "flux_realism_lora.safetensors",
+        "strength": 1
+      },
+      "lora_7": {
+        "on": false,
+        "lora": "_Riven_Wolfe___FLUX-000001.safetensors",
+        "strength": 1
+      },
+      "lora_8": {
+        "on": false,
+        "lora": "Flux_Ultimator.safetensors",
+        "strength": 1
+      },
+      "lora_9": {
+        "on": false,
+        "lora": "Dreaming_Death_Scifi-Horror_Flux.safetensors",
+        "strength": 1
+      },
+      "lora_10": {
+        "on": true,
+        "lora": "QoS_-_Flux.safetensors",
+        "strength": 1
+      },
+      "lora_11": {
+        "on": false,
+        "lora": "Robot_Skin_Flux_2.0.2.safetensors",
+        "strength": 1
+      },
+      "lora_12": {
+        "on": false,
+        "lora": "YFG-SpyWorld50s-Flux-Replicate-01.safetensors",
+        "strength": 1
+      },
+      "lora_13": {
+        "on": false,
+        "lora": "YFG-3DSMax-v1e12.safetensors",
+        "strength": 1
+      },
+      "lora_14": {
+        "on": false,
+        "lora": "YFG-Albrecht-Durer-v1e3.safetensors",
+        "strength": 1
+      },
+      "lora_15": {
+        "on": false,
+        "lora": "YFG-C4D-v1e12.safetensors",
+        "strength": 1
+      },
+      "lora_16": {
+        "on": false,
+        "lora": "YFG-SpyWorld50s-v3.safetensors",
+        "strength": 1
+      },
+      "lora_17": {
+        "on": false,
+        "lora": "yfg-patents-v1e4.safetensors",
+        "strength": 1
+      },
+      "lora_18": {
+        "on": false,
+        "lora": "YFG-Josep-Maria-Sert-v1.safetensors",
+        "strength": 1
+      },
+      "lora_19": {
+        "on": false,
+        "lora": "YFG-Old-Paintings-v249e10.safetensors",
+        "strength": 1
+      },
+      "lora_20": {
+        "on": false,
+        "lora": "YFG-Salvo-v1.safetensors",
+        "strength": 1
+      },
+      "lora_21": {
+        "on": false,
+        "lora": "YFG-SimonFlood-v1.safetensors",
+        "strength": 1
+      },
+      "lora_22": {
+        "on": false,
+        "lora": "YFG-SimonLoop-v1.safetensors",
+        "strength": 1
+      },
+      "lora_23": {
+        "on": false,
+        "lora": "Flux_Improved_Female_Nudity_v2.safetensors",
+        "strength": 1
+      },
+      "lora_24": {
+        "on": false,
+        "lora": "quiet-by-rdigitalartist.safetensors",
+        "strength": 1
+      },
+      "lora_25": {
+        "on": false,
+        "lora": "artilands_v02-000006.safetensors",
+        "strength": 1
+      },
+      "lora_26": {
+        "on": false,
+        "lora": "AnimeRetroFantasy.safetensors",
+        "strength": 0.7
+      },
+      "lora_27": {
+        "on": false,
+        "lora": "FluxMythG0thicL1nes.safetensors",
+        "strength": 0.6
+      },
+      "lora_28": {
+        "on": false,
+        "lora": "RetroAnimeFluxV1.safetensors",
+        "strength": 0.8
+      },
+      "➕ Add Lora": "",
+      "model": [
+        "21:0",
+        0
+      ],
+      "clip": [
+        "21:1",
+        0
+      ]
+    },
+    "class_type": "Power Lora Loader (rgthree)",
+    "_meta": {
+      "title": "Power Lora Loader (rgthree)"
+    }
+  },
+  "5": {
+    "inputs": {
+      "text": "A breathtakingly detailed image of a cyborg warrior in a heavily protected volumetric mechanical exoskeleton, showcasing her athletic build and precision engineering. The European blondie female protagonist is posed in a dynamic curved position, with her rifle held at the ready, exuding confidence and power. The braid that cascades down her back adds a touch of whimsy to the image, while the piercing in her navel adds a hint of edginess. Her facial expression is set in a fierce determination, with every muscle tensed and every line defined. The volumetric mechanical exoskeleton is a masterpiece of engineering, with intricate details and precision-crafted surfaces that seem to leap off the canvas. The metallic finish glistens with a subtle sheen, catching the light in a way that highlights the texture and complexity of the armor. Every aspect of this image has been meticulously crafted to create a sense of realism and immersion. From the rough-hewn surfaces of the exoskeleton's frame to the precision-crafted mechanisms that power its systems, every detail is carefully rendered to showcase the intricate complexity of this cybernetic wonder. The large canvas painting technique used to capture this image adds depth and dimensionality to the scene, with bold brushstrokes and vivid colors that bring the cyborg warrior to life. The 32K resolution ensures that every detail is crisp and clear, from the subtle shading on her skin to the intricate details of her armor. Technical specifications: Camera: Canon EOS R5 Lens: 24-70mm f/2.8L II USM Aperture: f/4 Shutter speed: 1/125s ISO: 100 HDR technique employed to capture detailed highlights and shadows Professional lighting setup with multiple flashes and softboxes Image editing software: Adobe Photoshop CC Image description: A photorealistic full body shot of a cyborg warrior in a heavily protected volumetric mechanical exoskeleton, showcasing her athletic build and precision engineering. Every detail is meticulously crafted to create a sense of realism and immersion. Style: Cinematic ultra-realism Focus on capturing the intricate complexity of the cybernetic wonder Whimsical dark cyberpunk aesthetic adds a touch of fantasy to the image Mood and atmosphere: Confidence and power emanate from the cyborg warrior's pose, with every muscle tensed and every line defined. The whimsical dark cyberpunk aesthetic adds a sense of fantasy and imagination to the image. The large canvas painting technique used to capture this image adds depth and dimensionality to the scene. Composition: The 24-70mm lens allows for a versatile crop of the cyborg warrior, showcasing her athletic build and precision engineering. A shallow depth of field blurs the background, drawing attention to the protagonist's focused expression. Every element in the image is meticulously composed, from the rough-hewn surfaces of the exoskeleton's frame to the precision-crafted mechanisms that power its systems. Color palette: Primary colors: Deep blacks (#000000) and rich metallic grays (#333333) Accent colors: Vibrant whites (#FFFFFF) and bright oranges (#FFA07A) Subtle shadows and highlights enhance overall sense of realism and depth Lighting: Professional lighting setup with multiple flashes and softboxes Harsh sunlight creates dramatic contrast between the cyborg warrior's skin tones and the metallic finish of her armor. Softbox lights add subtle warmth and depth to the scene, enhancing the overall sense of intimacy and closeness. Post-processing techniques: HDR technique employed to capture detailed highlights and shadows Color grading applied to enhance overall mood and atmosphere of the image Noise reduction and sharpening applied to ensure clarity and detail. Stylizing applied to enhance the whimsical dark cyberpunk aesthetic.",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "6": {
+    "inputs": {
+      "text": "",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "7": {
+    "inputs": {
+      "guidance": 2.5,
+      "conditioning": [
+        "5",
+        0
+      ]
+    },
+    "class_type": "FluxGuidance",
+    "_meta": {
+      "title": "FluxGuidance"
+    }
+  },
+  "8": {
+    "inputs": {
+      "seed": 216581620,
+      "steps": 10,
+      "cfg": 1,
+      "sampler_name": "euler",
+      "scheduler": "beta",
+      "denoise": 1,
+      "model": [
+        "4",
+        0
+      ],
+      "positive": [
+        "7",
+        0
+      ],
+      "negative": [
+        "6",
+        0
+      ],
+      "latent_image": [
+        "97",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "10": {
+    "inputs": {
+      "samples": [
+        "8",
+        0
+      ],
+      "vae": [
+        "21:2",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "11": {
+    "inputs": {
+      "filename_prefix": "ComfyFluxAwsome",
+      "images": [
+        "10",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "61": {
+    "inputs": {
+      "clip_l": "",
+      "t5xxl": "",
+      "guidance": 3.5,
+      "clip": [
+        "63:1",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncodeFlux",
+    "_meta": {
+      "title": "CLIPTextEncodeFlux"
+    }
+  },
+  "62": {
+    "inputs": {
+      "text": "blurry",
+      "clip": [
+        "63:1",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "64": {
+    "inputs": {
+      "model_name": "4x_NMKD-Siax_200k.pth"
+    },
+    "class_type": "UpscaleModelLoader",
+    "_meta": {
+      "title": "Load Upscale Model"
+    }
+  },
+  "65": {
+    "inputs": {
+      "image": "ConneAnneMk4 (12).png"
+    },
+    "class_type": "LoadImage",
+    "_meta": {
+      "title": "Load Image"
+    }
+  },
+  "66": {
+    "inputs": {
+      "upscale_by": 2,
+      "seed": 622420448444077,
+      "steps": 1,
+      "cfg": 2,
+      "sampler_name": "euler",
+      "scheduler": "beta",
+      "denoise": 0.2,
+      "mode_type": "Linear",
+      "tile_width": 1496,
+      "tile_height": 3328,
+      "mask_blur": 8,
+      "tile_padding": 32,
+      "seam_fix_mode": "None",
+      "seam_fix_denoise": 1,
+      "seam_fix_width": 64,
+      "seam_fix_mask_blur": 8,
+      "seam_fix_padding": 16,
+      "force_uniform_tiles": true,
+      "tiled_decode": false,
+      "image": [
+        "65",
+        0
+      ],
+      "model": [
+        "63:0",
+        0
+      ],
+      "positive": [
+        "61",
+        0
+      ],
+      "negative": [
+        "62",
+        0
+      ],
+      "vae": [
+        "63:2",
+        0
+      ],
+      "upscale_model": [
+        "64",
+        0
+      ]
+    },
+    "class_type": "UltimateSDUpscale",
+    "_meta": {
+      "title": "Ultimate SD Upscale"
+    }
+  },
+  "67": {
+    "inputs": {
+      "filename_prefix": "ComfyUI",
+      "images": [
+        "66",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "68": {
+    "inputs": {
+      "rgthree_comparer": {
+        "images": [
+          {
+            "name": "A",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_pegaj_00015_.png&type=temp&subfolder=&rand=0.23003619695900124"
+          },
+          {
+            "name": "B",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_pegaj_00016_.png&type=temp&subfolder=&rand=0.245558453701483"
+          }
+        ]
+      },
+      "image_a": [
+        "65",
+        0
+      ],
+      "image_b": [
+        "66",
+        0
+      ]
+    },
+    "class_type": "Image Comparer (rgthree)",
+    "_meta": {
+      "title": "Image Comparer (rgthree)"
+    }
+  },
+  "81": {
+    "inputs": {
+      "model_type": "flux",
+      "rel_l1_thresh": 0.4,
+      "start_percent": 3,
+      "end_percent": 1
+    },
+    "class_type": "TeaCache",
+    "_meta": {
+      "title": "TeaCache"
+    }
+  },
+  "82": {
+    "inputs": {
+      "model_type": "flux",
+      "rel_l1_thresh": 0.4,
+      "start_percent": 3,
+      "end_percent": 1
+    },
+    "class_type": "TeaCache",
+    "_meta": {
+      "title": "TeaCache"
+    }
+  },
+  "83": {
+    "inputs": {
+      "megapixel": "1.5",
+      "aspect_ratio": "5:8 (Tall Portrait)",
+      "divisible_by": false,
+      "custom_ratio": "1:1",
+      "custom_aspect_ratio": "1:1"
+    },
+    "class_type": "FluxResolutionNode",
+    "_meta": {
+      "title": "Flux Resolution Calc"
+    }
+  },
+  "84": {
+    "inputs": {
+      "images": [
+        "83",
+        3
+      ]
+    },
+    "class_type": "PreviewImage",
+    "_meta": {
+      "title": "Preview Image"
+    }
+  },
+  "94": {
+    "inputs": {
+      "width": 1024,
+      "height": 1648,
+      "batch_size": 1
+    },
+    "class_type": "EmptySD3LatentImage",
+    "_meta": {
+      "title": "EmptySD3LatentImage"
+    }
+  },
+  "97": {
+    "inputs": {
+      "width": [
+        "102",
+        0
+      ],
+      "height": [
+        "102",
+        1
+      ],
+      "batch_size": 1
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {
+      "title": "Empty Latent Image"
+    }
+  },
+  "102": {
+    "inputs": {
+      "Xi": 1664,
+      "Xf": 1664,
+      "Yi": 896,
+      "Yf": 896,
+      "isfloatX": 0,
+      "isfloatY": 0
+    },
+    "class_type": "mxSlider2D",
+    "_meta": {
+      "title": "Slider 2D"
+    }
+  },
+  "103": {
+    "inputs": {
+      "text": [
+        "104",
+        0
+      ],
+      "background_color": "#000000",
+      "font_size": 30,
+      "overlay_mode": false
+    },
+    "class_type": "iToolsAddOverlay",
+    "_meta": {
+      "title": "Base Image Overlay"
+    }
+  },
+  "104": {
+    "inputs": {
+      "Text": "CFG:2.5 - Steps:30 - LoRa:0.00"
+    },
+    "class_type": "Text (Any)",
+    "_meta": {
+      "title": "Base Image"
+    }
+  },
+  "105": {
+    "inputs": {
+      "format": "PNG",
+      "images": [
+        "10",
+        0
+      ]
+    },
+    "class_type": "ETN_SendImageWebSocket",
+    "_meta": {
+      "title": "Send Image (WebSocket)"
+    }
+  },
+  "106": {
+    "inputs": {
+      "format": "PNG",
+      "images": [
+        "66",
+        0
+      ]
+    },
+    "class_type": "ETN_SendImageWebSocket",
+    "_meta": {
+      "title": "Send Image (WebSocket)"
+    }
+  },
+  "63:0": {
+    "inputs": {
+      "unet_name": "flux_dev.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "63:1": {
+    "inputs": {
+      "clip_name1": "long_clip\\ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors",
+      "clip_name2": "t5\\google_t5-v1_1-xxl_encoderonly-fp16.safetensors",
+      "type": "flux",
+      "device": "default"
+    },
+    "class_type": "DualCLIPLoader",
+    "_meta": {
+      "title": "DualCLIPLoader"
+    }
+  },
+  "63:2": {
+    "inputs": {
+      "vae_name": "ae.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "21:0": {
+    "inputs": {
+      "unet_name": "schnellmodeFLUXSFP8FP16_v33FP8.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "21:1": {
+    "inputs": {
+      "clip_name1": "long_clip\\ViT-L-14-TEXT-detail-improved-hiT-GmP-HF.safetensors",
+      "clip_name2": "t5\\google_t5-v1_1-xxl_encoderonly-fp16.safetensors",
+      "type": "flux",
+      "device": "default"
+    },
+    "class_type": "DualCLIPLoader",
+    "_meta": {
+      "title": "DualCLIPLoader"
+    }
+  },
+  "21:2": {
+    "inputs": {
+      "vae_name": "flux-ae.sft"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  }
+}
